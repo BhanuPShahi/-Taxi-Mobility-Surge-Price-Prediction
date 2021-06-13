@@ -40,16 +40,16 @@ How Surge pricing works
 ● Prices go up In these cases of very high demand, prices may increase to help ensure that those who need a ride can get one. This system is called surge pricing, and it lets the app continue to be a reliable choice.
 
 ● Riders pay more or wait Whenever rates are raised due to surge pricing, the app lets riders know. Some riders will choose to pay, while some will choose to wait a few minutes to see if the rates go back down.
-
+---
 # Conclusion
 Started with loading the data so far we have done EDA , null values treatment, encoding of categorical columns, feature selection and then model building.
 
 So far I have modelled on
 
-Logistic Classifier
-SVM Classifier
-Random Forest Classifier
-XGBoost classifier
+* Logistic Classifier
+* SVM Classifier
+* Random Forest Classifier
+* XGBoost classifier
 
 In all of these models accuracy revolves in the range of 70 to 73%.
 And there is no such improvement in accuracy score even after hyperparameter tuning.
